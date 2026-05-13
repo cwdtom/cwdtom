@@ -1,32 +1,33 @@
-# Hi, I'm Ryan Chen
+# Hi there
 
-Ex-internet company engineer building indie products. Exploring apps, AI tools, and games. Currently working on Dango.
+I'm Ryan Chen, an ex-internet company engineer building indie products.
 
-## Focus
+Currently working on Dango. Exploring apps, AI tools, and games.
 
-- Personal AI agents and assistant workflows
-- Rust and Python tooling for local automation
-- Java backend infrastructure, especially gateway, Netty, logging, and service communication
-- Small tools that solve real everyday problems
+## Now
 
-## Featured Projects
+- Building Dango.
+- Exploring small AI-native tools.
+- Prototyping apps and game ideas.
+- Writing practical tools in Rust, Python, and Java.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [arknights](https://github.com/cwdtom/arknights) | Private AI agent | Rust |
-| [assistant](https://github.com/cwdtom/assistant) | AI personal assistant | Python |
-| [gateway](https://github.com/cwdtom/gateway) | API proxy gateway based on Netty and OkHttp | Java |
-| [dota2-timer](https://github.com/cwdtom/dota2-timer) | Dota 2 timer and reminder tool | Rust |
-| [hermes-java](https://github.com/cwdtom/hermes-java) | Java SDK for the Hermes middleware project | Java |
-| [poseidon](https://github.com/cwdtom/poseidon) | Distributed log aggregation plugin based on Socket and Netty | Java |
+## Bio
 
-## Toolbox
+- I like simple software that solves concrete problems.
+- My recent work is around AI agents, personal assistants, local automation, and product experiments.
+- My earlier engineering work is mostly Java backend infrastructure: API gateways, Netty, service communication, and logging systems.
+- I care about shipping, learning from real use, and keeping things small enough to understand.
 
-`Rust` · `Python` · `Java` · `Netty` · `OkHttp` · `Spring` · `SLF4J` · `AI agents`
+## Selected work
 
-## Contact
+| Project | Notes |
+| --- | --- |
+| Dango | Current focus |
+| [arknights](https://github.com/cwdtom/arknights) | Private AI agent |
+
+## Links
 
 - GitHub: [@cwdtom](https://github.com/cwdtom)
-- Email: [cwdtom@gmail.com](mailto:cwdtom@gmail.com)
 - X: [@Ryan_N0p3](https://x.com/Ryan_N0p3)
 - LinkedIn: [weidong-chen-626134154](https://www.linkedin.com/in/weidong-chen-626134154/)
+- Email: [cwdtom@gmail.com](mailto:cwdtom@gmail.com)
