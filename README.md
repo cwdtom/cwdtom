@@ -22,8 +22,8 @@ Currently working on Dango. Exploring apps, AI tools, and games.
 
 | Project | Notes |
 | --- | --- |
-| Dango | Current focus |
-| [arknights](https://github.com/cwdtom/arknights) | Private AI agent |
+| [oath-of-the-frost-crown](https://github.com/cwdtom/oath-of-the-frost-crown)  | Current focus |
+| [Dango](https://github.com/cwdtom/Dango) | Private AI agent |
 
 ## Links
 
